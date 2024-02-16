@@ -1,0 +1,15 @@
+{
+  "name": "com.janooba.kcc",
+  "version": "1.0.1",
+  "description": "The Kinematic Character Controller is a freely available asset for Unity, this custom version organizes its elements in a clean and comprehensive manner.",
+  "displayName": "KinematicCharacterController",
+  "unity": "2020.3",
+  "author": {
+    "name": "Philippe St-Amand (original creator), Gawidev (refactor/maintenance), Janooba (refactor/maintenance)",
+    "url": "https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131, https://github.com/Janooba/KinematicCharacterController"
+  },
+  "documentationUrl": "https://docs.google.com/document/d/1qT71uGaUO4UmK1NbW9-UsrX1G-0dWWQ2JQlKWBH0dIw/edit",
+  "keywords": [
+    "KCC"
+  ]
+}
